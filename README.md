@@ -71,7 +71,7 @@ Medical triage + summarisation + repatriation cannot be handled reliably by a si
 
 ---
 
-# What You Created — Architecture Overview
+# Architecture Overview
 
 Global MedAssist is a multi-agent system automating three phases:
 
